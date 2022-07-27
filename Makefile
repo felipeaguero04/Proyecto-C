@@ -2,5 +2,5 @@ process:
 		./Gato
 remove:
 		rm Gato
-total: 
+total:
 		gcc -o Gato main.c -Wall `pkg-config --cflags --libs gtk+-3.0` -export-dynamic
