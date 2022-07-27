@@ -5,6 +5,8 @@ Descripción y uso del proyecto: Este proyecto desarrollará el juego de gato po
 
 Autores: Luis Felipe Aguero Peralta, Sebastian Vargas Quesada
 
+Archivos: Se encuentran en la segunda rama, denominada "master".
+
 # Instalación de bibliotecas
 
 Se utilizará el kit de herramientas GTK de Glade para la interfaz gráfica, específicamente la versión 3.0, por lo que se deberá ejecutar el siguiente comando desde la terminal de linux para su respectiva instalación: 
